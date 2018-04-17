@@ -159,3 +159,10 @@ We propose an attack mechanism that exploits the transferability of adversarial
 examples to implement policy induction attacks on DQNs, and demonstrate its
 efficacy and impact through experimental study of a game-learning scenario.
 </blockquote>
+
+### Adversarial Attacks Against Medical Deep Learning Systems (Samuel G. Finlayson, Isaac S. Kohane, Andrew L. Beam) – (2018/04/15)
+
+[Link](https://arxiv.org/abs/1804.05296)
+<blockquote>
+The discovery of adversarial examples has raised concerns about the practical deployment of deep learning systems. In this paper, we argue that the field of medicine may be uniquely susceptible to adversarial attacks, both in terms of monetary incentives and technical vulnerability. To this end, we outline the healthcare economy and the incentives it creates for fraud, we extend adversarial attacks to three popular medical imaging tasks, and we provide concrete examples of how and why such attacks could be realistically carried out. For each of our representative medical deep learning classifiers, both white and black box attacks were both effective and human-imperceptible. We urge caution in employing deep learning systems in clinical settings, and encourage research into domain-specific defense strategies.
+</blockquote>
